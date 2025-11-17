@@ -6,11 +6,23 @@
 
 ###
 
+<br clear="both">
+
+  <p align="center">
+    <a href="https://www.google.com.eg/search?q=Youssef+Aboelela"> <!-- Google Me -->
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Follow%20to%20get%20New%20Updates;Check%20my%20Popular%20Repositories&font=Bold%20Code&center=true&color=30F050&pause=2000"></a>
+  </p>
+
+###
+
 <h3 align="left">🛠️ Top Technical Skills & Tools</h3>
 
 ###
 
-<img align="right" height="170" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAd/coding.gif"  />
+  <p align="center">
+    <a href="https://www.google.com.eg/search?q=Youssef+Aboelela"> <!-- Google Me -->
+      <img align="right" height="200" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAd/coding.gif"></a>
+  </p>
 
 ###
 
